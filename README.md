@@ -65,7 +65,7 @@ else:
     
  # hasil screenshot coding
  ![capture 1](https://user-images.githubusercontent.com/93035757/147146585-b9e71f21-b8fc-4091-9b34-fccc0452986d.PNG)
-![capture 2](https://user-images.githubusercontent.com/93035757/147146596-70657cd0-36a9-4e81-80e2-97d77cda02c8.PNG)
+![capture 2](https://user-images.githubusercontent.com/93035757/147194542-39eace0f-bae9-49a1-8ecd-ddf79e3be079.PNG)
 ![capture 3](https://user-images.githubusercontent.com/93035757/147146608-22ae16af-a7f9-4e40-a421-335d2d6e6e2f.PNG)
 
 
