@@ -63,10 +63,7 @@ class daftarNilai():
 
     def keluar(self):
         print('\n=====terimakasih=====\n')
-        print(21*'=')
-        print("Nama\t: Nur hidayat\nKelas\t: TI.21.C5\nNIM\t: 312110584")
-        print(21*'=')             
-                
+       
                                                         
 while True:
     data=daftarNilai()
